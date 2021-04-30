@@ -1,3 +1,11 @@
+Hello i have completed this weather app task using React js,When you run the app you will see the search bar, type into the search bar and you will get list of result and then when you click one of the result you will move new page, where you will see the weather result upto 5 days. basically i focused on working so UI is not upto the mark.
+In normal browser you will get CORS problem. 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
